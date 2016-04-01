@@ -11,7 +11,7 @@ namespace testHelloWorld
         static void Main(string[] args)
         {
             Console.Write("Hello world");
-            Console.ReadKey(); // Добавляем чтобы консоль закрывалась только после нажатия на любую клавишу
+            Console.ReadKey(); // Консоль закрывается только после нажатия на любую клавишу
         }
     }
 }
